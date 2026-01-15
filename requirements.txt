@@ -1,8 +1,5 @@
 numpy
 scikit-learn
-pyttsx3
-SpeechRecognition
-pyaudio
 requests
 tk
 flask
