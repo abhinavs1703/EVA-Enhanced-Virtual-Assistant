@@ -1,0 +1,13 @@
+{
+  "get_time": ["time"],
+  "get_date": ["date", "day"],
+  "open_app": ["open", "launch", "start"],
+  "set_name": ["my name is"],
+  "get_name": ["what is my name", "who am i"],
+  "add_note": ["take a note", "add note", "remember"],
+  "get_notes": ["show my notes", "list notes"],
+  "add_reminder": ["remind me"],
+  "get_reminders": ["show my reminders", "list reminders"]
+
+
+}
