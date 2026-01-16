@@ -1,5 +1,20 @@
+# Virtual env
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Local UI / Speech
+ui/
+speech/
+
+# Generated ML artifacts
+*.pkl
+
+# Local DB / JSON state
 *.db
-.env
+*.json
+
+# OS files
+.DS_Store
